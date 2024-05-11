@@ -1,31 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GAXDCEGPO7SO6UMCHE665GDR3C7WDLSHP6DDMHQVIV3QVPOXUFJJSBC7",
-"GANZ46754OHSIWF52JREEKMVPRLZQEECJFOXBY25QFLAEU7LJXSWBK54"]
+ACCOUNTS=["GBAXHLCHBI6ALVWWS7BK23Q2ZNM4GH6LO7AVMT2IMW4ZQ6DMTWBYHZYR"]
 
 [DOCUMENTATION]
-ORG_NAME="Etherscan"
-ORG_URL="https://www.etherscan-stellar.com/"
-ORG_DESCRIPTION="Etherscan is a Block Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform."
-ORG_LOGO="https://www.etherscan-stellar.com/eth.png"
+ORG_NAME="Travala"
+ORG_URL="https://www.travala-stellar.com/"
+ORG_DESCRIPTION="Book over 3 Million travel products around the world with popular cryptocurrencies. Find and book Hotels, Flights, Tours and Activities online today."
+ORG_LOGO="https://www.travala-stellar.com/logo.png"
 
 
 [[CURRENCIES]]
-code="ETHS"
+code="AVA"
 status="live"
-display_decimals=7
-issuer="GAXDCEGPO7SO6UMCHE665GDR3C7WDLSHP6DDMHQVIV3QVPOXUFJJSBC7"
+display_decimals=3
+issuer="GBAXHLCHBI6ALVWWS7BK23Q2ZNM4GH6LO7AVMT2IMW4ZQ6DMTWBYHZYR"
 anchor_asset_type="crypto"
-name="Etherscan"
-desc="Etherscan is a Block Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform."
-image="https://www.etherscan-stellar.com/eth.png"
-
-[[CURRENCIES]]
-code="ESK"
-status="live"
-display_decimals=7
-issuer="GANZ46754OHSIWF52JREEKMVPRLZQEECJFOXBY25QFLAEU7LJXSWBK54"
-anchor_asset_type="crypto"
-name="EtherSpark"
-desc="At the crossroads of innovation and utility, ESK offers a versatile platform for smart contracts and decentralized applications, ensuring a robust and dynamic environment."
-image="https://www.etherscan-stellar.com/esk.png"
+name="Travala"
+desc="Book over 3 Million travel products around the world with popular cryptocurrencies. Find and book Hotels, Flights, Tours and Activities online today."
+image="https://www.travala-stellar.com/logo.png"
